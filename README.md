@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/sagarvirmaniii/DSA-Classwork/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/sagarvirmaniii/DSA-Classwork/tree/master/0047-permutations-ii) |
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/sagarvirmaniii/DSA-Classwork/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/sagarvirmaniii/DSA-Classwork/tree/master/0047-permutations-ii) |
 ## Sorting
 |  |
